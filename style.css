@@ -1,0 +1,51 @@
+body {
+	font-family: 'Helvetica Neue';
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	background: url('cabs.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.h1 {
+	font-size: 40px;
+}
+
+.h2 {
+	font-size: 28px;
+}
+
+input {
+	padding: 10px;
+	width: 220px;
+	font-size:20px;
+}
+
+#logo {
+	margin-top: 50px;
+	font-family: 'Lobster';
+	font-size: 80px;
+}
+
+#container {
+	padding: 100px 50px 100px 50px;
+	background: rgba(30, 30, 30, .8);
+	margin: 4% 10% 0 10%;
+}
+
+#form {
+	display: none;
+}
+
+button {
+	margin-top: 80px;
+	padding: 25px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Helvetica Neue';
+	border: 0;
+	background-color: #347CE0;
+	cursor: pointer;
+}
